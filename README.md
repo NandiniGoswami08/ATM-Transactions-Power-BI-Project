@@ -4,21 +4,29 @@ This ATM Transaction Dashboards  is an interactive Power BI Project provides a d
 # FUNCTIONAL REQUIREMENT:
 ## A. Transaction Analysis
 • Track monthly transaction volume across all ATMs.
+
 • Differentiate between financial and non-financial transactions.
+
 • Compare current and previous months' transaction trends.
 ## B. Cost Analysis
 • Provide a detailed breakdown of ATM costs, including: ATM maintenance, Total operational cost and maintenance expenses
+
 • Identify cost variations across different ATMs and regions.
 ## C. Revenue Performance
 • Display monthly revenue trends per ATM.
+
 • Calculate average monthly revenue, total revenue, and gross profit percentage.
+
 • Compare revenue performance across different states.
 ## D. ATM Performance & Uptime Monitoring
 • Measure ATM uptime percentage.
+
 • Identify downtime causes and maintenance trends.
+
 • Compare ATM uptime across different regions.
 ## E. Geographical Insights
 • Provide state-wise ATM count and revenue performance.
+
 • Identify high-performing and low-performing ATMs based on location.
 
 # COST ANALYSIS DASHBOARD
