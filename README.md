@@ -41,6 +41,7 @@ This ATM Transaction Dashboards  is an interactive Power BI Project provides a d
 
 # INSIGHTS AND RECOMMENDATIONS:
 Insights & Recommendations:
+
 a.Identify high-cost, low-profit ATMs for better cost optimization.
 
 b.Improve ATM uptime to increase transaction volume.
